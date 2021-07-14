@@ -1,7 +1,6 @@
 ## Hello! 
 
-I'm glad to see you here.
 
-Here you can find some models that I've worked
+Here you can find some machine learning models that I've worked.
 
 
