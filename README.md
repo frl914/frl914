@@ -1,4 +1,4 @@
-![Data_science](https://user-images.githubusercontent.com/42385621/133477995-76c2110b-cc67-4bb4-bcc3-e649666d3955.png)
+![Data_science](https://user-images.githubusercontent.com/42385621/133822679-acac5cd3-6554-4d93-8bd0-5bcfcbfaff13.png)
 
 
 ## Hello! 
